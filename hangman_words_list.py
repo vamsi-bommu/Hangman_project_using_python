@@ -77,7 +77,6 @@ Word_list = [
 'icebox', 
 'injury', 
 'ivory', 
-'ivy', 
 'jackpot', 
 'jaundice', 
 'jawbreaker', 
@@ -199,8 +198,7 @@ Word_list = [
 'wristwatch', 
 'wyvern', 
 'xylophone', 
-'yachtsman', 
-'yippee', 
+'yachtsman',
 'yoked', 
 'youthful', 
 'yummy', 
@@ -213,3 +211,4 @@ Word_list = [
 'zombie', 
 
 ]
+
