@@ -195,8 +195,7 @@ Word_list = [
 'whomever', 
 'wimpy', 
 'witchcraft', 
-'wizard', 
-'woozy', 
+'wizard',  
 'wristwatch', 
 'wyvern', 
 'xylophone', 
@@ -212,4 +211,5 @@ Word_list = [
 'zipper', 
 'zodiac', 
 'zombie', 
+
 ]
